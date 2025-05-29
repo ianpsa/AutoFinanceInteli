@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+.env.*
+
+# Log files
+*.log
+logs/
+
+# JSON files
+*.json
