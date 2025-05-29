@@ -233,14 +233,14 @@ class EmailAutomationTool:
         instructions_label.grid(row=1, column=0, columnspan=2, sticky="w", pady=10)
         
         # Link clicável
-        drive_link = "https://drive.google.com/drive/u/1/folders/1yiCu8zVkssU8c5DMrvJUFtof1kb9Mes0"
+        drive_link = "https://drive.google.com/drive/u/1/folders/1eeBR_7tZnOFO-LFTGP-zvCN3qEFlkUnN"
         link_label = ttk.Label(self.current_step_frame, text=drive_link, foreground="blue", cursor="hand2")
         link_label.grid(row=2, column=0, columnspan=2, sticky="w", pady=5)
         link_label.bind("<Button-1>", lambda e: self.open_link(drive_link))
         
         # Resto das instruções
         instructions_text2 = """
-2. Verifique se existe uma pasta do mês atual:
+2. Entre na pasta do seu clube! Verifique se existe uma pasta do mês atual:
    - Se não existir, crie uma nova pasta com o número do mês atual e ano ex:(06.2025)
 
 3. Dentro da pasta do mês:
