@@ -1,8 +1,8 @@
-# 📧 Email Automation Tool
+# AutoFinanceInteli
 
-Uma ferramenta automatizada para gerenciar solicitações de pagamento e reembolso, desenvolvida para a Central Estudantil.
+Uma ferramenta automatizada para gerenciar solicitações de pagamento e reembolso, desenvolvida para todos os clubes!
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - 🤖 Automação de envio de emails via Gmail
 - 📊 Gerenciamento de histórico de solicitações
