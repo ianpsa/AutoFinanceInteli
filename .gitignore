@@ -13,3 +13,6 @@ logs/
 
 # JSON files
 *.json
+
+# cache
+__pycache__
