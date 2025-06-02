@@ -34,7 +34,7 @@ class EmailAutomationTool:
         
         # Default recipients
         self.default_to = "central@inteli.edu.br, bianca.moretti@inteli.edu.br"
-        self.default_cc = "lucas.niemeyer@inteli.edu.br, diana.cruz@inteli.edu.br, karina.santos@inteli.edu.br, financeiro@inteli.edu.br"
+        self.default_cc = "lucas.niemeyer@inteli.edu.br, karina.santos@inteli.edu.br, financeiro@inteli.edu.br, larissa.almeida@inteli.edu.br"
         
         # Email history
         self.email_history = self.load_email_history()
